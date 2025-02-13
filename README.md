@@ -8,6 +8,9 @@ GOLLA RAM
 COLLABORATOR:
 Dr. Arvind Perathur MD( TB& chest), AB( Pulmonary), FCCP
 
+PROFESSOR:
+Dr. Senthil Kumar T
+
 ABSTRACT:
 COVID-19 pandemic highlights the importance of effective diagnostic tools for managing respiratory complications.
 CT imaging is a non-invasive and essential modality for detecting and assessing induced lung lesions.
